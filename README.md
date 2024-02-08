@@ -1,5 +1,5 @@
 # BankistWebApp
-
+### This project is a 'sudo' marlketing page for a bank with functionality to move smoothly around the web page
 Learning JavaScript with Jonas Schmedtmann's course "The Complete JavaScript Course 2024: From Zero to Expert!"
 
 <img src="/img/logo.png" width="300">
